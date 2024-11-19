@@ -1,5 +1,5 @@
 # Vanilla JS Projects
-
+## These are some basic time killer projects which helped with understanding concepts. 
 1. Color Flipper
 2. Counter
 3. Reviews
